@@ -1,0 +1,14 @@
+集合 -- 李刚：	《疯狂java:突破程序员基本功的16课》
+多线程 -- 方腾飞：《java并发编程艺术》
+NIO -- 孙卫琴：《网络编程精解》 
+RPC和webService区别
+activemq
+	- 链接池
+	- 点对点
+	- 发布订阅
+zookeeper
+netty
+
+
+
+
